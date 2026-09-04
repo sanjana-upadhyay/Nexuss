@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import toast from "react-hot-toast";
 import { motion, AnimatePresence } from "framer-motion";
 import { getMyBookings, cancelBooking } from "../services/bookingService";
-import BookingCard from "../component/booking/BookingCard";
+import BookingCard from "../component/Booking/BookingCard";
 
 const MyBookings = () => {
   const [bookings, setBookings] = useState([]);
