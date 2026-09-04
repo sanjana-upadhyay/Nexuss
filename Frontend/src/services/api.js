@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://nexuss-o7se.onrender.com",
+  baseURL: "https://nexuss-o7se.onrender.com/api",
 });
 
 api.interceptors.request.use((config) => {
