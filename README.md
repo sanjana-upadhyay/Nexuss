@@ -277,6 +277,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-⭐ **If you found this project interesting, consider giving it a star!** ⭐
+⭐ **If you found this project interesting and amazing , consider giving it a star!** ⭐
 
 </div>
